@@ -131,3 +131,3014 @@ Level flags = 0
 Total triangle count: 488
 Writing c:\users\usuario\desktop\nueva carpeta (4)\cs_unifranz.bsp
 1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (8609 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 24 texinfos to 20
+Reduced 5 texdatas to 5 (108 bytes to 108)
+Writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105889, actual size 105675
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.prt
+ 122 portalclusters
+ 382 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 7 visible clusters (0.06%)
+Total clusters visible: 12243
+Average clusters visible: 100
+Building PAS...
+Average clusters audible: 122
+visdatasize:4912  compressed from 3904
+writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+366 faces
+575185 square feet [82826752.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+366 patches before subdivision
+17808 patches after subdivision
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 695301, max 263
+transfer lists:   5.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(58106, 23900, 9333)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(6674, 1775, 506)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(911, 157, 40)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(131, 18, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(23, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0037 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 23/8192          276/98304    ( 0.3%) 
+brushsides             138/65536        1104/524288   ( 0.2%) 
+planes                 118/65536        2360/1310720  ( 0.2%) 
+vertexes               450/65536        5400/786432   ( 0.7%) 
+nodes                  262/65536        8384/2097152  ( 0.4%) 
+texinfos                20/12288        1440/884736   ( 0.2%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  366/65536       20496/3670016  ( 0.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               88/65536        4928/3670016  ( 0.1%) 
+leaves                 264/65536        8448/2097152  ( 0.4%) 
+leaffaces              405/65536         810/131072   ( 0.6%) 
+leafbrushes            128/65536         256/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1944/512000       7776/2048000  ( 0.4%) 
+edges                 1018/256000       4072/1024000  ( 0.4%) 
+LDR worldlights          5/8192          440/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             17/32768         170/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           219/65536         438/131072   ( 0.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      408352/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        4912/16777216 ( 0.0%) 
+entdata               [variable]        2583/393216   ( 0.7%) 
+LDR ambient table      264/65536        1056/262144   ( 0.4%) 
+HDR ambient table      264/65536        1056/262144   ( 0.4%) 
+LDR leaf ambient      1643/65536       46004/1835008  ( 2.5%) 
+HDR leaf ambient       264/65536        7392/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/822      ( 0.1%) 
+pakfile               [variable]      105675/0        ( 0.0%) 
+physics               [variable]        8609/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 860
+Writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+2 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (8609 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 24 texinfos to 20
+Reduced 5 texdatas to 5 (108 bytes to 108)
+Writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105889, actual size 105675
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.prt
+ 122 portalclusters
+ 384 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 7 visible clusters (0.06%)
+Total clusters visible: 12557
+Average clusters visible: 102
+Building PAS...
+Average clusters audible: 122
+visdatasize:4909  compressed from 3904
+writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+366 faces
+575185 square feet [82826752.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+366 patches before subdivision
+17808 patches after subdivision
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 695301, max 263
+transfer lists:   5.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(58105, 23899, 9333)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(6674, 1775, 506)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(911, 157, 40)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(131, 18, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(23, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0025 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 23/8192          276/98304    ( 0.3%) 
+brushsides             138/65536        1104/524288   ( 0.2%) 
+planes                 118/65536        2360/1310720  ( 0.2%) 
+vertexes               450/65536        5400/786432   ( 0.7%) 
+nodes                  262/65536        8384/2097152  ( 0.4%) 
+texinfos                20/12288        1440/884736   ( 0.2%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  366/65536       20496/3670016  ( 0.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               88/65536        4928/3670016  ( 0.1%) 
+leaves                 264/65536        8448/2097152  ( 0.4%) 
+leaffaces              401/65536         802/131072   ( 0.6%) 
+leafbrushes            128/65536         256/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1944/512000       7776/2048000  ( 0.4%) 
+edges                 1018/256000       4072/1024000  ( 0.4%) 
+LDR worldlights          5/8192          440/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             17/32768         170/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           219/65536         438/131072   ( 0.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      408352/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        4909/16777216 ( 0.0%) 
+entdata               [variable]        3249/393216   ( 0.8%) 
+LDR ambient table      264/65536        1056/262144   ( 0.4%) 
+HDR ambient table      264/65536        1056/262144   ( 0.4%) 
+LDR leaf ambient      1652/65536       46256/1835008  ( 2.5%) 
+HDR leaf ambient       264/65536        7392/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/822      ( 0.1%) 
+pakfile               [variable]      105675/0        ( 0.0%) 
+physics               [variable]        8609/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 860
+Writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+2 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (8609 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 24 texinfos to 20
+Reduced 5 texdatas to 5 (108 bytes to 108)
+Writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105889, actual size 105675
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.prt
+ 122 portalclusters
+ 384 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 7 visible clusters (0.06%)
+Total clusters visible: 12557
+Average clusters visible: 102
+Building PAS...
+Average clusters audible: 122
+visdatasize:4909  compressed from 3904
+writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+366 faces
+575185 square feet [82826752.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+366 patches before subdivision
+17808 patches after subdivision
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 695301, max 263
+transfer lists:   5.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(58106, 23900, 9333)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(6674, 1775, 506)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(911, 157, 40)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(131, 18, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(23, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0026 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 23/8192          276/98304    ( 0.3%) 
+brushsides             138/65536        1104/524288   ( 0.2%) 
+planes                 118/65536        2360/1310720  ( 0.2%) 
+vertexes               450/65536        5400/786432   ( 0.7%) 
+nodes                  262/65536        8384/2097152  ( 0.4%) 
+texinfos                20/12288        1440/884736   ( 0.2%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  366/65536       20496/3670016  ( 0.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               88/65536        4928/3670016  ( 0.1%) 
+leaves                 264/65536        8448/2097152  ( 0.4%) 
+leaffaces              401/65536         802/131072   ( 0.6%) 
+leafbrushes            128/65536         256/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1944/512000       7776/2048000  ( 0.4%) 
+edges                 1018/256000       4072/1024000  ( 0.4%) 
+LDR worldlights          5/8192          440/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             17/32768         170/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           219/65536         438/131072   ( 0.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      408352/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        4909/16777216 ( 0.0%) 
+entdata               [variable]        3252/393216   ( 0.8%) 
+LDR ambient table      264/65536        1056/262144   ( 0.4%) 
+HDR ambient table      264/65536        1056/262144   ( 0.4%) 
+LDR leaf ambient      1652/65536       46256/1835008  ( 2.5%) 
+HDR leaf ambient       264/65536        7392/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/822      ( 0.1%) 
+pakfile               [variable]      105675/0        ( 0.0%) 
+physics               [variable]        8609/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 860
+Writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+2 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (8609 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 24 texinfos to 20
+Reduced 5 texdatas to 5 (108 bytes to 108)
+Writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105889, actual size 105675
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.prt
+ 122 portalclusters
+ 384 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 7 visible clusters (0.06%)
+Total clusters visible: 12557
+Average clusters visible: 102
+Building PAS...
+Average clusters audible: 122
+visdatasize:4909  compressed from 3904
+writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+366 faces
+575185 square feet [82826752.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+366 patches before subdivision
+17808 patches after subdivision
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 695301, max 263
+transfer lists:   5.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(58106, 23900, 9333)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(6674, 1775, 506)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(911, 157, 40)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(131, 18, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(23, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0025 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 23/8192          276/98304    ( 0.3%) 
+brushsides             138/65536        1104/524288   ( 0.2%) 
+planes                 118/65536        2360/1310720  ( 0.2%) 
+vertexes               450/65536        5400/786432   ( 0.7%) 
+nodes                  262/65536        8384/2097152  ( 0.4%) 
+texinfos                20/12288        1440/884736   ( 0.2%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  366/65536       20496/3670016  ( 0.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               88/65536        4928/3670016  ( 0.1%) 
+leaves                 264/65536        8448/2097152  ( 0.4%) 
+leaffaces              401/65536         802/131072   ( 0.6%) 
+leafbrushes            128/65536         256/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1944/512000       7776/2048000  ( 0.4%) 
+edges                 1018/256000       4072/1024000  ( 0.4%) 
+LDR worldlights          5/8192          440/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             17/32768         170/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           219/65536         438/131072   ( 0.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      408352/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        4909/16777216 ( 0.0%) 
+entdata               [variable]        3152/393216   ( 0.8%) 
+LDR ambient table      264/65536        1056/262144   ( 0.4%) 
+HDR ambient table      264/65536        1056/262144   ( 0.4%) 
+LDR leaf ambient      1652/65536       46256/1835008  ( 2.5%) 
+HDR leaf ambient       264/65536        7392/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/822      ( 0.1%) 
+pakfile               [variable]      105675/0        ( 0.0%) 
+physics               [variable]        8609/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 860
+Writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+2 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (14537 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 25
+Reduced 5 texdatas to 5 (108 bytes to 108)
+Writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105889, actual size 105675
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.prt
+ 128 portalclusters
+ 389 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 9 visible clusters (0.07%)
+Total clusters visible: 12747
+Average clusters visible: 99
+Building PAS...
+Average clusters audible: 128
+visdatasize:5172  compressed from 4096
+writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+416 faces
+577061 square feet [83096912.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+416 patches before subdivision
+17646 patches after subdivision
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 698588, max 263
+transfer lists:   5.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(59779, 24401, 9375)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(7423, 1891, 511)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(998, 162, 41)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(147, 19, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(25, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0026 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 40/8192          480/98304    ( 0.5%) 
+brushsides             303/65536        2424/524288   ( 0.5%) 
+planes                 266/65536        5320/1310720  ( 0.4%) 
+vertexes               534/65536        6408/786432   ( 0.8%) 
+nodes                  281/65536        8992/2097152  ( 0.4%) 
+texinfos                25/12288        1800/884736   ( 0.2%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  416/65536       23296/3670016  ( 0.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              120/65536        6720/3670016  ( 0.2%) 
+leaves                 283/65536        9056/2097152  ( 0.4%) 
+leaffaces              454/65536         908/131072   ( 0.7%) 
+leafbrushes            182/65536         364/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             2298/512000       9192/2048000  ( 0.4%) 
+edges                 1231/256000       4924/1024000  ( 0.5%) 
+LDR worldlights          5/8192          440/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             17/32768         170/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           219/65536         438/131072   ( 0.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      411304/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        5172/16777216 ( 0.0%) 
+entdata               [variable]        3152/393216   ( 0.8%) 
+LDR ambient table      283/65536        1132/262144   ( 0.4%) 
+HDR ambient table      283/65536        1132/262144   ( 0.4%) 
+LDR leaf ambient      1706/65536       47768/1835008  ( 2.6%) 
+HDR leaf ambient       283/65536        7924/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/824      ( 0.1%) 
+pakfile               [variable]      105675/0        ( 0.0%) 
+physics               [variable]       14537/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 986
+Writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+2 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (14537 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 25
+Reduced 5 texdatas to 5 (108 bytes to 108)
+Writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105889, actual size 105675
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.prt
+ 128 portalclusters
+ 389 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 10 visible clusters (0.08%)
+Total clusters visible: 12748
+Average clusters visible: 99
+Building PAS...
+Average clusters audible: 128
+visdatasize:5172  compressed from 4096
+writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+416 faces
+577061 square feet [83096912.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+416 patches before subdivision
+17646 patches after subdivision
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 698573, max 263
+transfer lists:   5.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(59621, 24358, 9372)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(7414, 1889, 511)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(997, 162, 41)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(147, 19, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(25, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0025 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 40/8192          480/98304    ( 0.5%) 
+brushsides             303/65536        2424/524288   ( 0.5%) 
+planes                 266/65536        5320/1310720  ( 0.4%) 
+vertexes               534/65536        6408/786432   ( 0.8%) 
+nodes                  281/65536        8992/2097152  ( 0.4%) 
+texinfos                25/12288        1800/884736   ( 0.2%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  416/65536       23296/3670016  ( 0.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              120/65536        6720/3670016  ( 0.2%) 
+leaves                 283/65536        9056/2097152  ( 0.4%) 
+leaffaces              454/65536         908/131072   ( 0.7%) 
+leafbrushes            182/65536         364/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             2298/512000       9192/2048000  ( 0.4%) 
+edges                 1231/256000       4924/1024000  ( 0.5%) 
+LDR worldlights          5/8192          440/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             17/32768         170/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           219/65536         438/131072   ( 0.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      411304/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        5172/16777216 ( 0.0%) 
+entdata               [variable]        3293/393216   ( 0.8%) 
+LDR ambient table      283/65536        1132/262144   ( 0.4%) 
+HDR ambient table      283/65536        1132/262144   ( 0.4%) 
+LDR leaf ambient      1706/65536       47768/1835008  ( 2.6%) 
+HDR leaf ambient       283/65536        7924/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1248     ( 0.1%) 
+pakfile               [variable]      105675/0        ( 0.0%) 
+physics               [variable]       14537/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 986
+Writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+2 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (14537 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 25
+Reduced 5 texdatas to 5 (108 bytes to 108)
+Writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105889, actual size 105675
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.prt
+ 128 portalclusters
+ 389 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 10 visible clusters (0.08%)
+Total clusters visible: 12748
+Average clusters visible: 99
+Building PAS...
+Average clusters audible: 128
+visdatasize:5172  compressed from 4096
+writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+416 faces
+577061 square feet [83096912.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+416 patches before subdivision
+17646 patches after subdivision
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 698507, max 263
+transfer lists:   5.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(58953, 24175, 9360)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(7362, 1877, 511)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(985, 161, 41)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(146, 19, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(25, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0025 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 40/8192          480/98304    ( 0.5%) 
+brushsides             303/65536        2424/524288   ( 0.5%) 
+planes                 266/65536        5320/1310720  ( 0.4%) 
+vertexes               534/65536        6408/786432   ( 0.8%) 
+nodes                  281/65536        8992/2097152  ( 0.4%) 
+texinfos                25/12288        1800/884736   ( 0.2%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  416/65536       23296/3670016  ( 0.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              120/65536        6720/3670016  ( 0.2%) 
+leaves                 283/65536        9056/2097152  ( 0.4%) 
+leaffaces              454/65536         908/131072   ( 0.7%) 
+leafbrushes            182/65536         364/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             2298/512000       9192/2048000  ( 0.4%) 
+edges                 1231/256000       4924/1024000  ( 0.5%) 
+LDR worldlights          5/8192          440/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             17/32768         170/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           219/65536         438/131072   ( 0.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      411304/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        5172/16777216 ( 0.0%) 
+entdata               [variable]        3293/393216   ( 0.8%) 
+LDR ambient table      283/65536        1132/262144   ( 0.4%) 
+HDR ambient table      283/65536        1132/262144   ( 0.4%) 
+LDR leaf ambient      1706/65536       47768/1835008  ( 2.6%) 
+HDR leaf ambient       283/65536        7924/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2656     ( 0.0%) 
+pakfile               [variable]      105675/0        ( 0.0%) 
+physics               [variable]       14537/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 986
+Writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+2 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (18377 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 63 texinfos to 51
+Reduced 5 texdatas to 5 (108 bytes to 108)
+Writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105889, actual size 105675
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.prt
+ 143 portalclusters
+ 423 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 10 visible clusters (0.07%)
+Total clusters visible: 14433
+Average clusters visible: 100
+Building PAS...
+Average clusters audible: 143
+visdatasize:6419  compressed from 6864
+writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+486 faces
+576421 square feet [83004752.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+486 patches before subdivision
+17792 patches after subdivision
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 773476, max 318
+transfer lists:   5.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(64077, 25907, 9677)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(8255, 2092, 549)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1215, 190, 43)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(188, 22, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(35, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(6, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0026 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 50/8192          600/98304    ( 0.6%) 
+brushsides             363/65536        2904/524288   ( 0.6%) 
+planes                 290/65536        5800/1310720  ( 0.4%) 
+vertexes               632/65536        7584/786432   ( 1.0%) 
+nodes                  311/65536        9952/2097152  ( 0.5%) 
+texinfos                51/12288        3672/884736   ( 0.4%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  486/65536       27216/3670016  ( 0.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              162/65536        9072/3670016  ( 0.2%) 
+leaves                 313/65536       10016/2097152  ( 0.5%) 
+leaffaces              532/65536        1064/131072   ( 0.8%) 
+leafbrushes            195/65536         390/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             2830/512000      11320/2048000  ( 0.6%) 
+edges                 1530/256000       6120/1024000  ( 0.6%) 
+LDR worldlights          5/8192          440/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             29/32768         290/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           399/65536         798/131072   ( 0.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      414436/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        6419/16777216 ( 0.0%) 
+entdata               [variable]        3293/393216   ( 0.8%) 
+LDR ambient table      313/65536        1252/262144   ( 0.5%) 
+HDR ambient table      313/65536        1252/262144   ( 0.5%) 
+LDR leaf ambient      1953/65536       54684/1835008  ( 3.0%) 
+HDR leaf ambient       313/65536        8764/1835008  ( 0.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2658     ( 0.0%) 
+pakfile               [variable]      105675/0        ( 0.0%) 
+physics               [variable]       18377/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1210
+Writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+3 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (23473 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 89 texinfos to 69
+Reduced 5 texdatas to 5 (108 bytes to 108)
+Writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105889, actual size 105675
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.prt
+ 168 portalclusters
+ 486 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 7 visible clusters (0.04%)
+Total clusters visible: 17069
+Average clusters visible: 101
+Building PAS...
+Average clusters audible: 168
+visdatasize:8644  compressed from 8064
+writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+620 faces
+576448 square feet [83008632.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+620 patches before subdivision
+17830 patches after subdivision
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 861893, max 399
+transfer lists:   6.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(66132, 26821, 10024)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(8508, 2183, 580)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1229, 200, 46)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(192, 24, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(35, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(7, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0029 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 63/8192          756/98304    ( 0.8%) 
+brushsides             441/65536        3528/524288   ( 0.7%) 
+planes                 342/65536        6840/1310720  ( 0.5%) 
+vertexes               831/65536        9972/786432   ( 1.3%) 
+nodes                  368/65536       11776/2097152  ( 0.6%) 
+texinfos                69/12288        4968/884736   ( 0.6%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  620/65536       34720/3670016  ( 0.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              212/65536       11872/3670016  ( 0.3%) 
+leaves                 370/65536       11840/2097152  ( 0.6%) 
+leaffaces              662/65536        1324/131072   ( 1.0%) 
+leafbrushes            234/65536         468/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             3726/512000      14904/2048000  ( 0.7%) 
+edges                 2034/256000       8136/1024000  ( 0.8%) 
+LDR worldlights          5/8192          440/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             45/32768         450/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           735/65536        1470/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      418828/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        8644/16777216 ( 0.1%) 
+entdata               [variable]        3293/393216   ( 0.8%) 
+LDR ambient table      370/65536        1480/262144   ( 0.6%) 
+HDR ambient table      370/65536        1480/262144   ( 0.6%) 
+LDR leaf ambient      1987/65536       55636/1835008  ( 3.0%) 
+HDR leaf ambient       370/65536       10360/1835008  ( 0.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2654     ( 0.0%) 
+pakfile               [variable]      105675/0        ( 0.0%) 
+physics               [variable]       23473/4194304  ( 0.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1638
+Writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+3 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (23473 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/computer_caseb.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 89 texinfos to 69
+Reduced 5 texdatas to 5 (108 bytes to 108)
+Writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105889, actual size 105675
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.prt
+ 168 portalclusters
+ 486 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 7 visible clusters (0.04%)
+Total clusters visible: 17069
+Average clusters visible: 101
+Building PAS...
+Average clusters audible: 168
+visdatasize:8644  compressed from 8064
+writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+620 faces
+576448 square feet [83008632.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+620 patches before subdivision
+17830 patches after subdivision
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 854584, max 399
+transfer lists:   6.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(65978, 26719, 9963)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(8445, 2157, 569)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1208, 194, 44)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(186, 22, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(33, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(6, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0025 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 63/8192          756/98304    ( 0.8%) 
+brushsides             441/65536        3528/524288   ( 0.7%) 
+planes                 342/65536        6840/1310720  ( 0.5%) 
+vertexes               831/65536        9972/786432   ( 1.3%) 
+nodes                  368/65536       11776/2097152  ( 0.6%) 
+texinfos                69/12288        4968/884736   ( 0.6%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  620/65536       34720/3670016  ( 0.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              212/65536       11872/3670016  ( 0.3%) 
+leaves                 370/65536       11840/2097152  ( 0.6%) 
+leaffaces              662/65536        1324/131072   ( 1.0%) 
+leafbrushes            234/65536         468/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             3726/512000      14904/2048000  ( 0.7%) 
+edges                 2034/256000       8136/1024000  ( 0.8%) 
+LDR worldlights          5/8192          440/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             45/32768         450/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           735/65536        1470/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      418828/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        8644/16777216 ( 0.1%) 
+entdata               [variable]        7364/393216   ( 1.9%) 
+LDR ambient table      370/65536        1480/262144   ( 0.6%) 
+HDR ambient table      370/65536        1480/262144   ( 0.6%) 
+LDR leaf ambient      1987/65536       55636/1835008  ( 3.0%) 
+HDR leaf ambient       370/65536       10360/1835008  ( 0.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/3430     ( 0.0%) 
+pakfile               [variable]      105675/0        ( 0.0%) 
+physics               [variable]       23473/4194304  ( 0.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1638
+Writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+3 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (24026 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/computer_caseb.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 94 texinfos to 73
+Reduced 6 texdatas to 6 (125 bytes to 125)
+Writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105889, actual size 105675
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.prt
+ 168 portalclusters
+ 486 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 7 visible clusters (0.04%)
+Total clusters visible: 17069
+Average clusters visible: 101
+Building PAS...
+Average clusters audible: 168
+visdatasize:8644  compressed from 8064
+writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+626 faces
+576616 square feet [83032760.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+626 patches before subdivision
+17880 patches after subdivision
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 860987, max 399
+transfer lists:   6.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(66078, 26786, 10007)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(8478, 2170, 575)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1216, 196, 45)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(188, 23, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(33, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(6, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0026 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 64/8192          768/98304    ( 0.8%) 
+brushsides             447/65536        3576/524288   ( 0.7%) 
+planes                 372/65536        7440/1310720  ( 0.6%) 
+vertexes               839/65536       10068/786432   ( 1.3%) 
+nodes                  374/65536       11968/2097152  ( 0.6%) 
+texinfos                73/12288        5256/884736   ( 0.6%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  626/65536       35056/3670016  ( 1.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              218/65536       12208/3670016  ( 0.3%) 
+leaves                 377/65536       12064/2097152  ( 0.6%) 
+leaffaces              668/65536        1336/131072   ( 1.0%) 
+leafbrushes            235/65536         470/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             3774/512000      15096/2048000  ( 0.7%) 
+edges                 2058/256000       8232/1024000  ( 0.8%) 
+LDR worldlights          5/8192          440/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             45/32768         450/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           735/65536        1470/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      419652/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        8644/16777216 ( 0.1%) 
+entdata               [variable]        7861/393216   ( 2.0%) 
+LDR ambient table      377/65536        1508/262144   ( 0.6%) 
+HDR ambient table      377/65536        1508/262144   ( 0.6%) 
+LDR leaf ambient      1998/65536       55944/1835008  ( 3.0%) 
+HDR leaf ambient       377/65536       10556/1835008  ( 0.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/3430     ( 0.0%) 
+pakfile               [variable]      105675/0        ( 0.0%) 
+physics               [variable]       24026/4194304  ( 0.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1650
+Writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+3 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (29528 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/computer_caseb.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 160 texinfos to 107
+Reduced 6 texdatas to 6 (125 bytes to 125)
+Writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105889, actual size 105675
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.prt
+ 168 portalclusters
+ 486 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 7 visible clusters (0.04%)
+Total clusters visible: 17069
+Average clusters visible: 101
+Building PAS...
+Average clusters audible: 168
+visdatasize:8644  compressed from 8064
+writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+686 faces
+579388 square feet [83431912.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+686 patches before subdivision
+18236 patches after subdivision
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 895648, max 398
+transfer lists:   6.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(66457, 27040, 10212)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(8529, 2189, 585)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1213, 196, 45)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(185, 22, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(32, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(6, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0028 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  12/1024          576/49152    ( 1.2%) 
+brushes                 74/8192          888/98304    ( 0.9%) 
+brushsides             507/65536        4056/524288   ( 0.8%) 
+planes                 444/65536        8880/1310720  ( 0.7%) 
+vertexes               919/65536       11028/786432   ( 1.4%) 
+nodes                  434/65536       13888/2097152  ( 0.7%) 
+texinfos               107/12288        7704/884736   ( 0.9%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  686/65536       38416/3670016  ( 1.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              278/65536       15568/3670016  ( 0.4%) 
+leaves                 447/65536       14304/2097152  ( 0.7%) 
+leaffaces              728/65536        1456/131072   ( 1.1%) 
+leafbrushes            245/65536         490/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             4254/512000      17016/2048000  ( 0.8%) 
+edges                 2298/256000       9192/1024000  ( 0.9%) 
+LDR worldlights          5/8192          440/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             45/32768         450/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           735/65536        1470/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      432564/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        8644/16777216 ( 0.1%) 
+entdata               [variable]       21510/393216   ( 5.5%) 
+LDR ambient table      447/65536        1788/262144   ( 0.7%) 
+HDR ambient table      447/65536        1788/262144   ( 0.7%) 
+LDR leaf ambient      2186/65536       61208/1835008  ( 3.3%) 
+HDR leaf ambient       447/65536       12516/1835008  ( 0.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4098     ( 0.0%) 
+pakfile               [variable]      105675/0        ( 0.0%) 
+physics               [variable]       29528/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1770
+Writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+3 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (46954 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/computer_caseb.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 215 texinfos to 164
+Reduced 7 texdatas to 7 (145 bytes to 145)
+Writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105889, actual size 105675
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.prt
+ 171 portalclusters
+ 494 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 8 visible clusters (0.05%)
+Total clusters visible: 17739
+Average clusters visible: 103
+Building PAS...
+Average clusters audible: 171
+visdatasize:9197  compressed from 8208
+writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+880 faces
+582582 square feet [83891848.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+880 patches before subdivision
+18894 patches after subdivision
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 936344, max 399
+transfer lists:   7.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(72943, 29644, 11154)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(9029, 2385, 658)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1299, 210, 48)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(196, 24, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(34, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(6, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0027 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  43/1024         2064/49152    ( 4.2%) 
+brushes                106/8192         1272/98304    ( 1.3%) 
+brushsides             699/65536        5592/524288   ( 1.1%) 
+planes                 492/65536        9840/1310720  ( 0.8%) 
+vertexes              1183/65536       14196/786432   ( 1.8%) 
+nodes                  623/65536       19936/2097152  ( 1.0%) 
+texinfos               164/12288       11808/884736   ( 1.3%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  880/65536       49280/3670016  ( 1.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              469/65536       26264/3670016  ( 0.7%) 
+leaves                 667/65536       21344/2097152  ( 1.0%) 
+leaffaces              923/65536        1846/131072   ( 1.4%) 
+leafbrushes            275/65536         550/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5806/512000      23224/2048000  ( 1.1%) 
+edges                 3076/256000      12304/1024000  ( 1.2%) 
+LDR worldlights          5/8192          440/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             47/32768         470/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           747/65536        1494/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      448568/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        9197/16777216 ( 0.1%) 
+entdata               [variable]       33248/393216   ( 8.5%) 
+LDR ambient table      667/65536        2668/262144   ( 1.0%) 
+HDR ambient table      667/65536        2668/262144   ( 1.0%) 
+LDR leaf ambient      2513/65536       70364/1835008  ( 3.8%) 
+HDR leaf ambient       667/65536       18676/1835008  ( 1.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4098     ( 0.0%) 
+pakfile               [variable]      105675/0        ( 0.0%) 
+physics               [variable]       46954/4194304  ( 1.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2170
+Writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+3 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (46796 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/computer_caseb.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 215 texinfos to 164
+Reduced 7 texdatas to 7 (145 bytes to 145)
+Writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105889, actual size 105675
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.prt
+ 171 portalclusters
+ 494 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 8 visible clusters (0.05%)
+Total clusters visible: 17739
+Average clusters visible: 103
+Building PAS...
+Average clusters audible: 171
+visdatasize:9197  compressed from 8208
+writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+880 faces
+582582 square feet [83891848.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+880 patches before subdivision
+18894 patches after subdivision
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 933667, max 399
+transfer lists:   7.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(72944, 29673, 11202)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(9040, 2400, 671)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1305, 214, 50)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(199, 25, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(35, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(6, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0033 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  42/1024         2016/49152    ( 4.1%) 
+brushes                106/8192         1272/98304    ( 1.3%) 
+brushsides             699/65536        5592/524288   ( 1.1%) 
+planes                 492/65536        9840/1310720  ( 0.8%) 
+vertexes              1183/65536       14196/786432   ( 1.8%) 
+nodes                  617/65536       19744/2097152  ( 0.9%) 
+texinfos               164/12288       11808/884736   ( 1.3%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  880/65536       49280/3670016  ( 1.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              469/65536       26264/3670016  ( 0.7%) 
+leaves                 660/65536       21120/2097152  ( 1.0%) 
+leaffaces              930/65536        1860/131072   ( 1.4%) 
+leafbrushes            277/65536         554/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5806/512000      23224/2048000  ( 1.1%) 
+edges                 3076/256000      12304/1024000  ( 1.2%) 
+LDR worldlights          5/8192          440/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             47/32768         470/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           747/65536        1494/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      448568/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        9197/16777216 ( 0.1%) 
+entdata               [variable]       33114/393216   ( 8.4%) 
+LDR ambient table      660/65536        2640/262144   ( 1.0%) 
+HDR ambient table      660/65536        2640/262144   ( 1.0%) 
+LDR leaf ambient      2507/65536       70196/1835008  ( 3.8%) 
+HDR leaf ambient       660/65536       18480/1835008  ( 1.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4098     ( 0.0%) 
+pakfile               [variable]      105675/0        ( 0.0%) 
+physics               [variable]       46796/4194304  ( 1.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2170
+Writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+3 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (45009 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/computer_caseb.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 212 texinfos to 160
+Reduced 7 texdatas to 7 (145 bytes to 145)
+Writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105889, actual size 105675
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.prt
+ 167 portalclusters
+ 482 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 7 visible clusters (0.04%)
+Total clusters visible: 16974
+Average clusters visible: 101
+Building PAS...
+Average clusters audible: 167
+visdatasize:8587  compressed from 8016
+writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+867 faces
+581633 square feet [83755288.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+867 patches before subdivision
+18769 patches after subdivision
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 895503, max 372
+transfer lists:   6.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(71630, 29036, 11112)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(8988, 2462, 768)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1361, 257, 79)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(222, 36, 11)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(43, 6, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(9, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0031 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  34/1024         1632/49152    ( 3.3%) 
+brushes                105/8192         1260/98304    ( 1.3%) 
+brushsides             693/65536        5544/524288   ( 1.1%) 
+planes                 482/65536        9640/1310720  ( 0.7%) 
+vertexes              1163/65536       13956/786432   ( 1.8%) 
+nodes                  565/65536       18080/2097152  ( 0.9%) 
+texinfos               160/12288       11520/884736   ( 1.3%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  867/65536       48552/3670016  ( 1.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              458/65536       25648/3670016  ( 0.7%) 
+leaves                 600/65536       19200/2097152  ( 0.9%) 
+leaffaces              940/65536        1880/131072   ( 1.4%) 
+leafbrushes            286/65536         572/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5716/512000      22864/2048000  ( 1.1%) 
+edges                 3041/256000      12164/1024000  ( 1.2%) 
+LDR worldlights          5/8192          440/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             47/32768         470/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           747/65536        1494/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      444808/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        8587/16777216 ( 0.1%) 
+entdata               [variable]       31364/393216   ( 8.0%) 
+LDR ambient table      600/65536        2400/262144   ( 0.9%) 
+HDR ambient table      600/65536        2400/262144   ( 0.9%) 
+LDR leaf ambient      2229/65536       62412/1835008  ( 3.4%) 
+HDR leaf ambient       600/65536       16800/1835008  ( 0.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4300     ( 0.0%) 
+pakfile               [variable]      105675/0        ( 0.0%) 
+physics               [variable]       45009/4194304  ( 1.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2150
+Writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+3 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (49479 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/computer_caseb.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 244 texinfos to 193
+Reduced 7 texdatas to 7 (145 bytes to 145)
+Writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105889, actual size 105675
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.prt
+ 167 portalclusters
+ 482 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 7 visible clusters (0.04%)
+Total clusters visible: 16974
+Average clusters visible: 101
+Building PAS...
+Average clusters audible: 167
+visdatasize:8587  compressed from 8016
+writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+928 faces
+584508 square feet [84169152.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+928 patches before subdivision
+19160 patches after subdivision
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 899820, max 361
+transfer lists:   6.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(72500, 29792, 11800)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(9428, 2767, 1003)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1512, 341, 133)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(271, 58, 23)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(59, 11, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(14, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0028 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  36/1024         1728/49152    ( 3.5%) 
+brushes                116/8192         1392/98304    ( 1.4%) 
+brushsides             759/65536        6072/524288   ( 1.2%) 
+planes                 504/65536       10080/1310720  ( 0.8%) 
+vertexes              1245/65536       14940/786432   ( 1.9%) 
+nodes                  577/65536       18464/2097152  ( 0.9%) 
+texinfos               193/12288       13896/884736   ( 1.6%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  928/65536       51968/3670016  ( 1.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              519/65536       29064/3670016  ( 0.8%) 
+leaves                 614/65536       19648/2097152  ( 0.9%) 
+leaffaces             1034/65536        2068/131072   ( 1.6%) 
+leafbrushes            307/65536         614/131072   ( 0.5%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             6214/512000      24856/2048000  ( 1.2%) 
+edges                 3300/256000      13200/1024000  ( 1.3%) 
+LDR worldlights          5/8192          440/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             47/32768         470/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           747/65536        1494/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      458004/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        8587/16777216 ( 0.1%) 
+entdata               [variable]       31632/393216   ( 8.0%) 
+LDR ambient table      614/65536        2456/262144   ( 0.9%) 
+HDR ambient table      614/65536        2456/262144   ( 0.9%) 
+LDR leaf ambient      2241/65536       62748/1835008  ( 3.4%) 
+HDR leaf ambient       614/65536       17192/1835008  ( 0.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4448     ( 0.0%) 
+pakfile               [variable]      105675/0        ( 0.0%) 
+physics               [variable]       49479/4194304  ( 1.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2282
+Writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+3 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (49394 bytes)
+Error! prop_static using model "models/props_c17/chair02a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/chair02a.mdl"!
+Error! prop_static using model "models/props/cs_office/computer_caseb.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/computer_caseb.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 251 texinfos to 199
+Reduced 7 texdatas to 7 (145 bytes to 145)
+Writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105889, actual size 105675
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.prt
+ 176 portalclusters
+ 521 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 6 visible clusters (0.03%)
+Total clusters visible: 19870
+Average clusters visible: 112
+Building PAS...
+Average clusters audible: 176
+visdatasize:9466  compressed from 8448
+writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+953 faces
+583503 square feet [84024448.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+953 patches before subdivision
+19241 patches after subdivision
+18 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 923305, max 372
+transfer lists:   7.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(107794, 53522, 28806)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(17800, 7237, 3742)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(3677, 1261, 642)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(832, 261, 129)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(209, 59, 28)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(54, 14, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(15, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(4, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0029 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  33/1024         1584/49152    ( 3.2%) 
+brushes                117/8192         1404/98304    ( 1.4%) 
+brushsides             765/65536        6120/524288   ( 1.2%) 
+planes                 526/65536       10520/1310720  ( 0.8%) 
+vertexes              1282/65536       15384/786432   ( 2.0%) 
+nodes                  574/65536       18368/2097152  ( 0.9%) 
+texinfos               199/12288       14328/884736   ( 1.6%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  953/65536       53368/3670016  ( 1.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              522/65536       29232/3670016  ( 0.8%) 
+leaves                 608/65536       19456/2097152  ( 0.9%) 
+leaffaces             1070/65536        2140/131072   ( 1.6%) 
+leafbrushes            313/65536         626/131072   ( 0.5%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             6356/512000      25424/2048000  ( 1.2%) 
+edges                 3379/256000      13516/1024000  ( 1.3%) 
+LDR worldlights         18/8192         1584/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             52/32768         520/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           834/65536        1668/131072   ( 1.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      459708/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        9466/16777216 ( 0.1%) 
+entdata               [variable]       22695/393216   ( 5.8%) 
+LDR ambient table      608/65536        2432/262144   ( 0.9%) 
+HDR ambient table      608/65536        2432/262144   ( 0.9%) 
+LDR leaf ambient      2189/65536       61292/1835008  ( 3.3%) 
+HDR leaf ambient       608/65536       17024/1835008  ( 0.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4830     ( 0.0%) 
+pakfile               [variable]      105675/0        ( 0.0%) 
+physics               [variable]       49394/4194304  ( 1.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2362
+Writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+3 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (49416 bytes)
+Error! prop_static using model "models/props_c17/chair02a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/chair02a.mdl"!
+Error! prop_static using model "models/props/cs_office/computer_caseb.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/computer_caseb.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 254 texinfos to 202
+Reduced 9 texdatas to 9 (186 bytes to 186)
+Writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105889, actual size 105675
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.prt
+ 176 portalclusters
+ 521 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 6 visible clusters (0.03%)
+Total clusters visible: 19870
+Average clusters visible: 112
+Building PAS...
+Average clusters audible: 176
+visdatasize:9466  compressed from 8448
+writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+953 faces
+583503 square feet [84024448.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+953 patches before subdivision
+19241 patches after subdivision
+18 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 923305, max 372
+transfer lists:   7.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(81250, 46484, 27566)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(12670, 5547, 3087)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(2124, 847, 488)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(422, 162, 95)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(92, 34, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(22, 8, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(5, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0035 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  33/1024         1584/49152    ( 3.2%) 
+brushes                117/8192         1404/98304    ( 1.4%) 
+brushsides             765/65536        6120/524288   ( 1.2%) 
+planes                 526/65536       10520/1310720  ( 0.8%) 
+vertexes              1282/65536       15384/786432   ( 2.0%) 
+nodes                  574/65536       18368/2097152  ( 0.9%) 
+texinfos               202/12288       14544/884736   ( 1.6%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  953/65536       53368/3670016  ( 1.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              522/65536       29232/3670016  ( 0.8%) 
+leaves                 608/65536       19456/2097152  ( 0.9%) 
+leaffaces             1070/65536        2140/131072   ( 1.6%) 
+leafbrushes            313/65536         626/131072   ( 0.5%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             6356/512000      25424/2048000  ( 1.2%) 
+edges                 3379/256000      13516/1024000  ( 1.3%) 
+LDR worldlights         18/8192         1584/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             52/32768         520/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           834/65536        1668/131072   ( 1.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      567648/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        9466/16777216 ( 0.1%) 
+entdata               [variable]       22695/393216   ( 5.8%) 
+LDR ambient table      608/65536        2432/262144   ( 0.9%) 
+HDR ambient table      608/65536        2432/262144   ( 0.9%) 
+LDR leaf ambient      2160/65536       60480/1835008  ( 3.3%) 
+HDR leaf ambient       608/65536       17024/1835008  ( 0.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4830     ( 0.0%) 
+pakfile               [variable]      105675/0        ( 0.0%) 
+physics               [variable]       49416/4194304  ( 1.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2362
+Writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+3 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (48866 bytes)
+Error! prop_static using model "models/props_c17/chair02a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/chair02a.mdl"!
+Error! prop_static using model "models/props/cs_office/computer_caseb.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/computer_caseb.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 260 texinfos to 202
+Reduced 10 texdatas to 10 (212 bytes to 212)
+Writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105889, actual size 105675
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.prt
+ 176 portalclusters
+ 521 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 6 visible clusters (0.03%)
+Total clusters visible: 19870
+Average clusters visible: 112
+Building PAS...
+Average clusters audible: 176
+visdatasize:9466  compressed from 8448
+writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+939 faces
+583396 square feet [84009040.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+939 patches before subdivision
+19207 patches after subdivision
+18 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 913906, max 370
+transfer lists:   7.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(96988, 62208, 40649)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(16345, 8935, 5526)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(2943, 1568, 974)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(598, 308, 187)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(131, 66, 39)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(30, 14, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(7, 3, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0028 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  32/1024         1536/49152    ( 3.1%) 
+brushes                116/8192         1392/98304    ( 1.4%) 
+brushsides             759/65536        6072/524288   ( 1.2%) 
+planes                 538/65536       10760/1310720  ( 0.8%) 
+vertexes              1278/65536       15336/786432   ( 2.0%) 
+nodes                  568/65536       18176/2097152  ( 0.9%) 
+texinfos               202/12288       14544/884736   ( 1.6%) 
+texdata                 10/2048          320/65536    ( 0.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  939/65536       52584/3670016  ( 1.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              514/65536       28784/3670016  ( 0.8%) 
+leaves                 601/65536       19232/2097152  ( 0.9%) 
+leaffaces             1056/65536        2112/131072   ( 1.6%) 
+leafbrushes            312/65536         624/131072   ( 0.5%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             6272/512000      25088/2048000  ( 1.2%) 
+edges                 3335/256000      13340/1024000  ( 1.3%) 
+LDR worldlights         18/8192         1584/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             56/32768         560/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           891/65536        1782/131072   ( 1.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      530392/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        9466/16777216 ( 0.1%) 
+entdata               [variable]       22206/393216   ( 5.6%) 
+LDR ambient table      601/65536        2404/262144   ( 0.9%) 
+HDR ambient table      601/65536        2404/262144   ( 0.9%) 
+LDR leaf ambient      2193/65536       61404/1835008  ( 3.3%) 
+HDR leaf ambient       601/65536       16828/1835008  ( 0.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4830     ( 0.0%) 
+pakfile               [variable]      105675/0        ( 0.0%) 
+physics               [variable]       48866/4194304  ( 1.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2338
+Writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+3 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (48867 bytes)
+Error! prop_static using model "models/props_c17/chair02a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/chair02a.mdl"!
+Error! prop_static using model "models/props/cs_office/computer_caseb.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/computer_caseb.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 292 texinfos to 233
+Reduced 11 texdatas to 11 (228 bytes to 228)
+Writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105889, actual size 105675
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.prt
+ 176 portalclusters
+ 521 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 6 visible clusters (0.03%)
+Total clusters visible: 19870
+Average clusters visible: 112
+Building PAS...
+Average clusters audible: 176
+visdatasize:9466  compressed from 8448
+writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+940 faces
+583396 square feet [84009040.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+940 patches before subdivision
+19208 patches after subdivision
+18 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 914586, max 370
+transfer lists:   7.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(85104, 51263, 31217)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(13489, 6471, 3552)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(2237, 966, 533)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(440, 179, 100)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(95, 37, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(22, 8, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(5, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0028 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  32/1024         1536/49152    ( 3.1%) 
+brushes                116/8192         1392/98304    ( 1.4%) 
+brushsides             759/65536        6072/524288   ( 1.2%) 
+planes                 538/65536       10760/1310720  ( 0.8%) 
+vertexes              1276/65536       15312/786432   ( 1.9%) 
+nodes                  568/65536       18176/2097152  ( 0.9%) 
+texinfos               233/12288       16776/884736   ( 1.9%) 
+texdata                 11/2048          352/65536    ( 0.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  940/65536       52640/3670016  ( 1.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              515/65536       28840/3670016  ( 0.8%) 
+leaves                 601/65536       19232/2097152  ( 0.9%) 
+leaffaces             1057/65536        2114/131072   ( 1.6%) 
+leafbrushes            312/65536         624/131072   ( 0.5%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             6276/512000      25104/2048000  ( 1.2%) 
+edges                 3336/256000      13344/1024000  ( 1.3%) 
+LDR worldlights         18/8192         1584/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             55/32768         550/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           873/65536        1746/131072   ( 1.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      520344/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        9466/16777216 ( 0.1%) 
+entdata               [variable]       22206/393216   ( 5.6%) 
+LDR ambient table      601/65536        2404/262144   ( 0.9%) 
+HDR ambient table      601/65536        2404/262144   ( 0.9%) 
+LDR leaf ambient      2235/65536       62580/1835008  ( 3.4%) 
+HDR leaf ambient       601/65536       16828/1835008  ( 0.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4830     ( 0.0%) 
+pakfile               [variable]      105675/0        ( 0.0%) 
+physics               [variable]       48867/4194304  ( 1.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2336
+Writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+3 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (55531 bytes)
+Error! prop_static using model "models/props_c17/chair02a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/chair02a.mdl"!
+Error! prop_static using model "models/props/cs_office/computer_caseb.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/computer_caseb.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 303 texinfos to 233
+Reduced 11 texdatas to 11 (228 bytes to 228)
+Writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105889, actual size 105675
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.prt
+ 187 portalclusters
+ 545 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 12 visible clusters (0.05%)
+Total clusters visible: 22357
+Average clusters visible: 119
+Building PAS...
+Average clusters audible: 187
+visdatasize:10737  compressed from 8976
+writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+1042 faces
+584362 square feet [84148256.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1042 patches before subdivision
+19790 patches after subdivision
+18 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 978371, max 387
+transfer lists:   7.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(88537, 54032, 32867)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(13809, 6748, 3689)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(2256, 986, 540)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(440, 182, 101)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(94, 37, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(22, 8, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(5, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0029 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  42/1024         2016/49152    ( 4.1%) 
+brushes                129/8192         1548/98304    ( 1.6%) 
+brushsides             837/65536        6696/524288   ( 1.3%) 
+planes                 636/65536       12720/1310720  ( 1.0%) 
+vertexes              1440/65536       17280/786432   ( 2.2%) 
+nodes                  649/65536       20768/2097152  ( 1.0%) 
+texinfos               233/12288       16776/884736   ( 1.9%) 
+texdata                 11/2048          352/65536    ( 0.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1042/65536       58352/3670016  ( 1.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              585/65536       32760/3670016  ( 0.9%) 
+leaves                 692/65536       22144/2097152  ( 1.1%) 
+leaffaces             1158/65536        2316/131072   ( 1.8%) 
+leafbrushes            340/65536         680/131072   ( 0.5%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             7024/512000      28096/2048000  ( 1.4%) 
+edges                 3724/256000      14896/1024000  ( 1.5%) 
+LDR worldlights         18/8192         1584/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             58/32768         580/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           939/65536        1878/131072   ( 1.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      530700/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       10737/16777216 ( 0.1%) 
+entdata               [variable]       27217/393216   ( 6.9%) 
+LDR ambient table      692/65536        2768/262144   ( 1.1%) 
+HDR ambient table      692/65536        2768/262144   ( 1.1%) 
+LDR leaf ambient      2313/65536       64764/1835008  ( 3.5%) 
+HDR leaf ambient       692/65536       19376/1835008  ( 1.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/5504     ( 0.0%) 
+pakfile               [variable]      105675/0        ( 0.0%) 
+physics               [variable]       55531/4194304  ( 1.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2600
+Writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+3 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (55542 bytes)
+Error! prop_static using model "models/props_c17/chair02a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/chair02a.mdl"!
+Error! prop_static using model "models/props/cs_office/computer_caseb.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/computer_caseb.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 311 texinfos to 239
+Reduced 13 texdatas to 13 (266 bytes to 266)
+Writing C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Usuario\Desktop\Nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105889, actual size 105675
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+reading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.prt
+ 187 portalclusters
+ 545 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 12 visible clusters (0.05%)
+Total clusters visible: 22357
+Average clusters visible: 119
+Building PAS...
+Average clusters audible: 187
+visdatasize:10737  compressed from 8976
+writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+1042 faces
+584368 square feet [84149056.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1042 patches before subdivision
+19790 patches after subdivision
+18 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 978303, max 387
+transfer lists:   7.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(62647, 37703, 22469)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(6650, 3941, 2221)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(808, 440, 285)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(113, 72, 51)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(19, 13, 10)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(4, 3, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0028 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  42/1024         2016/49152    ( 4.1%) 
+brushes                129/8192         1548/98304    ( 1.6%) 
+brushsides             837/65536        6696/524288   ( 1.3%) 
+planes                 640/65536       12800/1310720  ( 1.0%) 
+vertexes              1440/65536       17280/786432   ( 2.2%) 
+nodes                  649/65536       20768/2097152  ( 1.0%) 
+texinfos               239/12288       17208/884736   ( 1.9%) 
+texdata                 13/2048          416/65536    ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1042/65536       58352/3670016  ( 1.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              585/65536       32760/3670016  ( 0.9%) 
+leaves                 692/65536       22144/2097152  ( 1.1%) 
+leaffaces             1158/65536        2316/131072   ( 1.8%) 
+leafbrushes            340/65536         680/131072   ( 0.5%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             7024/512000      28096/2048000  ( 1.4%) 
+edges                 3724/256000      14896/1024000  ( 1.5%) 
+LDR worldlights         18/8192         1584/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             58/32768         580/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           939/65536        1878/131072   ( 1.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      680480/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       10737/16777216 ( 0.1%) 
+entdata               [variable]       27219/393216   ( 6.9%) 
+LDR ambient table      692/65536        2768/262144   ( 1.1%) 
+HDR ambient table      692/65536        2768/262144   ( 1.1%) 
+LDR leaf ambient      2310/65536       64680/1835008  ( 3.5%) 
+HDR leaf ambient       692/65536       19376/1835008  ( 1.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/5504     ( 0.0%) 
+pakfile               [variable]      105675/0        ( 0.0%) 
+physics               [variable]       55542/4194304  ( 1.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2600
+Writing c:\users\usuario\desktop\nueva carpeta (10)\cs_unifranz\cs_unifranz.bsp
+3 seconds elapsed
